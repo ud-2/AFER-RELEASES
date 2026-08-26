@@ -1,0 +1,63 @@
+A-FER COMMUNITY EDITION LICENSE
+Copyright (c) 2026 VUIDE OUENDEU FRANCK JORDAN
+All rights reserved.
+
+1. GRANT OF LICENSE
+
+Subject to the terms of this License, the copyright holder grants you a
+limited, non-exclusive, non-transferable, revocable license to download,
+install, execute, and use the A-FER Community Edition binary for personal,
+educational, research, evaluation, development, and internal non-commercial
+purposes.
+
+2. RESTRICTIONS
+
+You may not:
+
+- modify, adapt, or create derivative works of the A-FER binary;
+- reverse engineer, decompile, disassemble, or attempt to derive the source
+  code or underlying implementation of the software, except to the extent
+  expressly permitted by applicable law;
+- remove or alter copyright, licensing, or proprietary notices;
+- redistribute, resell, sublicense, lease, rent, or otherwise commercially
+  distribute the software or any modified version of it;
+- use the Community Edition to provide a commercial service to third parties;
+- circumvent, disable, or bypass technical limitations, usage restrictions,
+  or other protection mechanisms implemented in the software.
+
+3. COMMERCIAL USE
+
+Commercial use, production deployment for commercial purposes, redistribution,
+and enterprise-scale usage require a separate commercial or Enterprise license.
+
+4. OWNERSHIP
+
+A-FER, including its binaries, software design, implementation, and associated
+intellectual property, remains the exclusive property of the copyright holder.
+
+This License does not transfer ownership or any intellectual property rights
+to you.
+
+5. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS
+FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+6. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, THE COPYRIGHT HOLDER SHALL
+NOT BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, CONSEQUENTIAL, OR
+OTHER DAMAGES ARISING FROM THE USE OF OR INABILITY TO USE THE SOFTWARE.
+
+7. TERMINATION
+
+This license automatically terminates if you violate its terms.
+
+Upon termination, you must stop using and delete all copies of the software
+in your possession or control.
+
+8. LICENSE VERSION
+
+This license applies to the A-FER Community Edition v0.1.0 and may be updated
+for future releases.
